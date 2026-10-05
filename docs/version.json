@@ -1,1 +1,1 @@
-{"build":"7.4","label":"SHADOWTM URL","commit":"see GitHub REST API","features":["GitHub Pages base moved to ShadowTm","router basename updated","asset paths updated","GitHub API repository path updated"]}
+{"build":"7.4","label":"SHADOWTM URL READY","commit":"see GitHub REST API","features":["relative asset deployment","supports current Open- path","automatically supports ShadowTm after repository rename","dynamic router and GitHub repository detection"]}
