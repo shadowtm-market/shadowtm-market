@@ -1,1 +1,1 @@
-{"build":"7.4","label":"SHADOWTM URL READY","commit":"see GitHub REST API","features":["relative asset deployment","supports current Open- path","automatically supports ShadowTm after repository rename","dynamic router and GitHub repository detection"]}
+{"build":"7.5","label":"MARKET URL READY","commit":"see GitHub REST API","features":["prepared for shadowtm-market.github.io root URL","dynamic root router","dynamic GitHub API owner detection","current Open- URL remains functional"]}
