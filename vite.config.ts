@@ -1,2 +1,2 @@
 import { defineConfig } from 'vite'; import react from '@vitejs/plugin-react';
-export default defineConfig({base:'/Open-/',plugins:[react()], server:{host:'0.0.0.0',allowedHosts:true}});
+export default defineConfig({base:'/ShadowTm/',plugins:[react()], server:{host:'0.0.0.0',allowedHosts:true}});
