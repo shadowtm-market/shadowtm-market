@@ -1,1 +1,1 @@
-{"build":"7.6","label":"BROWSER AUTH","commit":"see GitHub REST API","features":["browser-local registration","browser-local login","SHA-256 local password hash","multiple local accounts per browser","no API or JSON dependency","local logout session cleanup"]}
+{"build":"7.7","label":"FAST ACCESS","commit":"see GitHub REST API","features":["removed blocking preloader","removed external font requests","deferred offscreen rendering","reduced mobile GPU effects","simplified main navigation","simplified user workspace navigation","passive scroll handler"]}
