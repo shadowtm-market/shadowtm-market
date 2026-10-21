@@ -1,1 +1,1 @@
-{"build":"7.5","label":"MARKET URL READY","commit":"see GitHub REST API","features":["prepared for shadowtm-market.github.io root URL","dynamic root router","dynamic GitHub API owner detection","current Open- URL remains functional"]}
+{"build":"7.6","label":"BROWSER AUTH","commit":"see GitHub REST API","features":["browser-local registration","browser-local login","SHA-256 local password hash","multiple local accounts per browser","no API or JSON dependency","local logout session cleanup"]}
